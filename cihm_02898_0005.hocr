@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cihm_02898_0005.png"; bbox 0 0 2676 3623; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2676 1198">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2676 1198">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2676 1198; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 2676 1198; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 794 1242 1992 1339">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 794 1242 1992 1339">
+     <span class='ocr_line' id='line_1_2' title="bbox 794 1242 1992 1339; baseline 0 -4"><span class='ocrx_word' id='word_1_2' title='bbox 794 1242 1992 1339; x_wconf 72' lang='lat' dir='ltr'><strong>DECRETA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 624 1571 2151 1761">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 624 1571 2151 1761">
+     <span class='ocr_line' id='line_1_3' title="bbox 624 1571 2151 1761; baseline 0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 624 1571 1197 1759; x_wconf 83' lang='lat' dir='ltr'><strong>PRIMI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1318 1571 2151 1761; x_wconf 86' lang='lat' dir='ltr'><strong>CONCILH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 964 1998 1812 2078">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 964 1998 1812 2078">
+     <span class='ocr_line' id='line_1_4' title="bbox 964 1998 1812 2078; baseline -0.002 -1"><span class='ocrx_word' id='word_1_5' title='bbox 964 1998 1812 2078; x_wconf 72' lang='lat' dir='ltr'>PROVINCIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 793 2310 1971 2428">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 793 2310 1971 2428">
+     <span class='ocr_line' id='line_1_5' title="bbox 793 2310 1971 2428; baseline -0.001 0"><span class='ocrx_word' id='word_1_6' title='bbox 793 2312 1239 2428; x_wconf 85' lang='lat' dir='ltr'>SANCTI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1322 2310 1971 2428; x_wconf 85' lang='lat' dir='ltr'>BONIFACII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1218 3014 1550 3071">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1218 3014 1550 3071">
+     <span class='ocr_line' id='line_1_6' title="bbox 1218 3014 1550 3071; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1218 3014 1550 3071; x_wconf 70' lang='grc'>88888</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
